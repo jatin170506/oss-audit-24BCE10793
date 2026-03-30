@@ -17,7 +17,7 @@ This script will read log files, count the number of keywords, and show recent l
 5. Open Source Manifesto (script5.sh)
 This script will generate a simple open-source message using user input.
 Run Commands
-git clone https://github.com/24-Tuhinsh/oss-audit-24BCE10559
+git clone https://github.com/jatin170506/oss-audit-24BCE10793.git
 cd oss-audit-24BCE10793
 chmod +x *.sh
 ./script1.sh
